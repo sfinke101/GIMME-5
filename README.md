@@ -1,2 +1,2 @@
 # GIMME-5
-Five voice polyphonic audio synthesizer based on highly oversampled bitstream technology
+Five voice polyphonic audio synthesizer based on a highly oversampled bitstream
